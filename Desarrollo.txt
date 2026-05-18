@@ -3,3 +3,4 @@
 ··Segunda ediciòn desde VSC
 Tercer edicion VSC
 Esto es dede el remoto (GitHub)
+##Pull request es para que el propietario admita los cambio hechos y se acepte otro colaborador
